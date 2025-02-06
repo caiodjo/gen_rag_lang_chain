@@ -7,9 +7,13 @@ name = "pypi"
 langchain = "*"
 langchain-openai = "*"
 langchain-community = "*"
+langchain-pinecone = "*"
+langchain-ollama = "*"
 langchainhub = "*"
 black = "*"
 python-dotenv = "*"
+pypdf = "*"
+docling = "*"
 
 [dev-packages]
 

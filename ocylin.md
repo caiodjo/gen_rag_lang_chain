@@ -1,0 +1,13 @@
+MULTILAB
+
+## OCYLIN amoxicilina tri-hidratada
+
+500 mg
+
+TO "RICO (ACIMA de 40 kg)
+
+VENDA SOB PRESCRIÇãO MÉDICA SÓ PODE SER VENDIDO COM RETENÇAO DA RECEITA
+
+Genêrico
+
+NOVA FÓRMULA

@@ -5,12 +5,11 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "ice_breaker",
+      "name": "ice",
       "type": "debugpy",
       "request": "launch",
       "program": "${file}",
       "console": "integratedTerminal",
-      "justMyCode": true,
       "envFile": "${workspaceFolder}/.env"
     }
   ]

@@ -10,7 +10,6 @@ from langchain import hub
 
 
 if __name__ == "__main__":
-    print("hi")
     pdf_path = "../resources/bula_1733275242348.pdf"
     loader = PyPDFLoader(file_path=pdf_path)
     documents = loader.load()
