@@ -8,7 +8,7 @@ load_dotenv()
 
 if __name__ == "__main__":
     print(os.environ["ELEVENLABS_API_KEY"])
-    text_to_speak = "Hello world! I am the real slim shady"
+    text_to_speak = "As contra indicações da nimesulida são várias"
 
     # tts = ElevenLabsText2SpeechTool()
     # print(tts.name)
@@ -24,4 +24,4 @@ if __name__ == "__main__":
         model_id="eleven_multilingual_v2",
         output_format="mp3_44100_128",
     )
-    # play(audio)
+    play(audio)
